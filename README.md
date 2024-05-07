@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repo.
-Author Rutika
+Author Rutika Kolhapure
